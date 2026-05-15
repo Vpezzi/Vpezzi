@@ -16,12 +16,6 @@ Apasionado por la seguridad informática y el desarrollo de proyectos propios. A
 ---
 
 ## 🚀 Proyectos
-
-### ⚽ [Football Analytics Dashboard](https://github.com/Vpezzi/football-analytics-dashboard)
-Dashboard interactivo de fútbol con estadísticas, predicciones con IA y tablas de posiciones para 7 ligas (Premier League, La Liga, Champions, Serie A y más). Construido con HTML, CSS y JavaScript vanilla.
-
-> 🔗 [Ver demo en vivo](https://vpezzi.github.io/football-analytics-dashboard)
-
 ### 🔐 [Cybersecurity Portfolio](https://github.com/Vpezzi/cybersecurity-portfolio)
 Repositorio con proyectos, notas y prácticas relacionadas a ciberseguridad.
 
